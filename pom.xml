@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ather-Releases Nexus Repo</name>
-	      <url>http://43.205.211.28:8081/ather/repository/ather-release/</url>
+	      <url>http://3.110.122.61:8081/repository/hdfcbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ather-secproj Snapshot Nexus Repository </name>
-	      <url>http://43.205.211.28:8081/ather/repository/ather-snapshot/</url>
+	      <url>http://3.110.122.61:8081/repository/hdfcbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
