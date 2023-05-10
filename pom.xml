@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>ICICIbank Releases Nexus Repo</name>
-	      <url>http://13.233.96.125:8081/repository/ICICIbank-release/</url>
+	      <name>ather-secproj Releases Nexus Repo</name>
+	      <url>http://52.66.11.245:8081/repository/ather-secproj-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ICICIbank Snapshot Nexus Repository </name>
-	      <url>http://13.233.96.125:8081/repository/ICICIbank-snapshot/</url>
+	      <name>ather-secproj Snapshot Nexus Repository </name>
+	      <url>http://52.66.11.245:8081/repository/ather-secproj-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
