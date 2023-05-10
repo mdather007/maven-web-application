@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ather-secproj Releases Nexus Repo</name>
-	      <url>http://52.66.11.245:8081/repository/ather-secproj-release/</url>
+	      <url>http://43.205.211.28:8081/ather/repository/ather-secproj-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ather-secproj Snapshot Nexus Repository </name>
-	      <url>http://52.66.11.245:8081/repository/ather-secproj-snapshot/</url>
+	      <url>http://43.205.211.28:8081/ather/repository/ather-secproj-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
